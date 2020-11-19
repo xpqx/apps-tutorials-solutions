@@ -12,4 +12,4 @@ Programming stuff, small code-based programs, and tutoring stuff for non-cryptog
 - - related course: CS203	Programming with Data Structure (Java) from CSULA
 - programming four -- "advanced level" web and internet programming from a student perspective
 
-#### *"Advanced level programming from a student perspective is not necessarily advanced-level programming from an industry perspective.*
+#### *"Advanced level" programming from a student perspective is not necessarily advanced-level programming from an industry perspective.*
