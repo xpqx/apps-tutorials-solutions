@@ -7,7 +7,7 @@ package javaQuestionsAndAnswers;
  */
 public class Discounter {
 	public static void main(String[] args) {
-		System.out.println("StackOverflow Problem and Solution");
+		System.out.println("StackOverflow Problem and Solution #1");
 		System.out.println();
 		System.out.println("Sample Output");
 		System.out.println(calc(100));
