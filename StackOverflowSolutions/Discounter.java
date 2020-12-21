@@ -21,3 +21,8 @@ public class Discounter {
 		return coupon*offset*base*value/100; //5
 	}
 }
+/**
+* Sample Output below
+* StackOverflow Problem and Solution
+* 3000.0
+**/
