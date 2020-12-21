@@ -8,6 +8,8 @@ package javaQuestionsAndAnswers;
 public class Discounter {
 	public static void main(String[] args) {
 		System.out.println("StackOverflow Problem and Solution");
+		System.out.println();
+		System.out.println("Sample Output");
 		System.out.println(calc(100));
 	} 
 	public static double calc(double value) {
@@ -22,7 +24,9 @@ public class Discounter {
 	}
 }
 /**
-* Sample Output below
 * StackOverflow Problem and Solution
-* 3000.0
+*
+*Sample Output
+*3000.0
+*
 **/
