@@ -1,4 +1,4 @@
-# programming
+# prog-apps-tutorials-solutions
 
 Programming stuff, small code-based programs, and tutoring stuff for non-cryptography based tutoring. SQL syntax included.
 
