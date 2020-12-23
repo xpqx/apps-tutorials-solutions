@@ -1,5 +1,8 @@
 package murachsJavaProg.ch7Apps;
-
+/*
+* This class is supposed to function as a database. Normally, you would use other software for your programming and data storage needs. Other software could be MySQL.
+*
+*/
 public class ProductDB {
 	public static Product getProduct(String productCode) {
 
