@@ -1,6 +1,6 @@
 # Package Purchase Program
 
-A small program that tracks how many packages are purchased. Flowcharts included.
+A small program that tracks how many packages are purchased. Flowcharts included. (*Eh, I don't know, flowcharts!*)
 
 
 
