@@ -1,0 +1,15 @@
+package ch13.graphs;
+
+public class Vertex {
+	
+	public char label;
+	public boolean wasVisited;
+	
+	public Vertex(char lab) {
+		label = lab;
+		wasVisited = false;
+	}
+
+}
+
+

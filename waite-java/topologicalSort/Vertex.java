@@ -1,13 +1,8 @@
 package ch13.topologicalSort;
 
-public class Vertex {
-	
-	public char labelForVertices;
-	
-	public Vertex(char label) {
-		labelForVertices = label;
-	}
-	
-	
-
-}
+public class Vertex
+{
+	public char label; // label (e.g. 'A')
+	public Vertex(char lab) // constructor
+	{ label = lab; }
+} // end class Vertex
