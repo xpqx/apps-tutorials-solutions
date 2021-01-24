@@ -1,3 +1,2 @@
-# Apps Tutorials Solutions
+# Apps in Various Programming Languages
 
-Programming stuff, small code-based programs, and tutoring stuff for non-cryptography based tutoring. 
