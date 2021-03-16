@@ -15,7 +15,8 @@ __3.16.2021__
 - Bubble Sort 35 points in Java, 1 in C++
 - Selection Sort 30 points in Java, 0 in C++
 - Insertion Sort 30 points in Java, 0 in C++
-- Merge Sort 0 points
-- Quick Sort 0 points
+- Merge Sort 0 points in Java, 0 in C++
+- Quick Sort 0 points in Java, 0 in C++
+- Heap Sort 0 points in Java, 0 in C++
 - Bucket Sort 0 points
 - Radix Sort 0 points
