@@ -19,3 +19,12 @@
 
 ### Good Resources to Learn Algorithms
 - https://www.amazon.com/Thomas-H-Cormen/e/B000AQ24AS/ref=dp_byline_cont_pop_book_1 (*This is the goto book to learn algorithms, and the various concepts that make up the universe of algorithms.*)
+
+### Good Resources to Learn Database Material (MySQL, Database Design, Database Concepts)
+- https://www.amazon.com/Introduction-Database-Management-Systems-Kahate-ebook/dp/B00BXEYC9C
+- https://www.amazon.com/Fundamentals-Database-Systems-Ramez-Elmasri/dp/0133970779
+- https://www.murach.com/shop/murach-s-mysql-3rd-edition-detail
+
+
+### Good Resources to Learn Java Servlets and JSP (and Java MySQL integration)
+- https://www.murach.com/shop/murach-s-java-servlets-and-jsp-3rd-edition-detail
