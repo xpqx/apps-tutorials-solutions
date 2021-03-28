@@ -13,6 +13,7 @@ Separating graphs from traditional data structures due to their uniqueness.
 - Prim's Algorithm 0 points
 - Breadth-First Search 0 points
 - Depth-First Search 0 points
+- A* Star Search 0 points
 
 #### Graph Representations
 - Adjacency Lists 0 points
