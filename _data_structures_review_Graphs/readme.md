@@ -18,3 +18,4 @@ Separating graphs from traditional data structures due to their uniqueness.
 #### Graph Representations
 - Adjacency Lists 0 points
 - Adjacency Matrix 0 points
+- Weighted Graphs 0 points
