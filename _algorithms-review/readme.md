@@ -40,3 +40,5 @@ __3.27.2020__
 - Heap Sort:      1 points in Java,    0 in C++
 - Bucket Sort:    0 points in Java,    0 in C++
 - Radix Sort:     0 points in Java,    0 in C++
+- Shell Sort:     0 points in Java,   0 in C++
+
