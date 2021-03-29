@@ -24,6 +24,9 @@
 ### C++ Keywords
 - https://en.cppreference.com/w/cpp/keyword 
 
+### Java Keywords
+- https://docs.oracle.com/javase/tutorial/java/nutsandbolts/_keywords.html
+
 ### Good Resources to Learn Algorithms
 - https://www.amazon.com/Thomas-H-Cormen/e/B000AQ24AS/ref=dp_byline_cont_pop_book_1 (*This is the goto book to learn algorithms, and the various concepts that make up the universe of algorithms.*)
 
