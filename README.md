@@ -21,7 +21,7 @@
 - https://www.amazon.com/Starting-Out-Early-Objects-10th/dp/0135235006
 - https://www.amazon.com/gp/product/B009YUUNYK/ref=dbs_a_def_rwt_bibl_vppi_i8
 
-#### C++ Keywords
+### C++ Keywords
 - https://en.cppreference.com/w/cpp/keyword 
 
 ### Good Resources to Learn Algorithms
