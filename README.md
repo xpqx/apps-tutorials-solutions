@@ -3,6 +3,11 @@
 ### Good Resources to Learn Programming Logic and Design Principles
 - https://www.amazon.com/gp/product/B00XIH44RM/ref=dbs_a_def_rwt_bibl_vppi_i3
 
+### Good Resources to Learn Java Programming from a Beginner Perspective
+- https://www.amazon.com/Objects-First-Java-Practical-Introduction/dp/0132492660 
+- https://www.bluej.org/objects-first/
+
+
 ### Good Resources to Learn Java Programming, Data Structures and Algorithms
 - https://www.cs.utexas.edu/~ndale/ (*She has an interesting data structures book!*)
 - https://yongdanielliang.github.io/ (*This is the standard goto guy for beginner Java programming.*)
