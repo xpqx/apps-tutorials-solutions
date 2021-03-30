@@ -42,3 +42,13 @@ __3.27.2020__
 - Radix Sort:     0 points in Java,    0 in C++
 - Shell Sort:     0 points in Java,   0 in C++
 
+__3.29.2020__
+- Bubble Sort:    60 points in Java,   25 points in C++
+- Selection Sort: 56 points in Java,   25 points in C++
+- Insertion Sort: 41 points in Java,   0 in C++
+- Merge Sort:     42 points in Java, 0 in C++
+- Quick Sort:     35 points in Java,    0 in C++
+- Heap Sort:      1 points in Java,    0 in C++
+- Bucket Sort:    0 points in Java,    0 in C++
+- Radix Sort:     0 points in Java,    0 in C++
+- Shell Sort:     0 points in Java,   0 in C++
