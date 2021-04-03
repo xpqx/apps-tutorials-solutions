@@ -31,7 +31,7 @@ __3.18.2021__
 - Bucket Sort:    0 points in Java,    0 in C++
 - Radix Sort:     0 points in Java,    0 in C++
 
-__3.27.2020__
+__3.27.2021__
 - Bubble Sort:    60 points in Java,   1 in C++
 - Selection Sort: 56 points in Java,   0 in C++
 - Insertion Sort: 41 points in Java,   0 in C++
@@ -42,7 +42,7 @@ __3.27.2020__
 - Radix Sort:     0 points in Java,    0 in C++
 - Shell Sort:     0 points in Java,   0 in C++
 
-__3.29.2020__
+__3.29.2021__
 - Bubble Sort:    60 points in Java,   25 points in C++
 - Selection Sort: 56 points in Java,   25 points in C++
 - Insertion Sort: 41 points in Java,   0 in C++
@@ -54,7 +54,7 @@ __3.29.2020__
 - Shell Sort:     0 points in Java,   0 in C++
 
 
-__3.29.2020__
+__4.3.2021__
 - Bubble Sort:    60 points in Java,   25 points in C++
 - Selection Sort: 56 points in Java,   25 points in C++
 - Insertion Sort: 41 points in Java,   0 in C++
